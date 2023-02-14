@@ -1,0 +1,172 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(32, 30, 30);
+}
+
+.img1 {
+    border-radius: 47%;
+    width: 21%;
+    position: absolute;
+    left: 1030px;
+    top: 135px;
+}
+.img2 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 203px;
+    height: 143px;
+}
+
+.line1 {
+    position: absolute;
+    top: 137px;
+    color: white;
+    width: 201px;
+    left: 0px;
+}
+
+.home {
+    position: absolute;
+    top: 151px;
+    color: white;
+    left: 0px;
+    border: 4px solid black;
+    width: 197px;
+    height: 39px;
+    background-color: black;
+}
+
+.line2 {
+    position: absolute;
+    top: 194px;
+    color: white;
+    width: 201px;
+    left: 0px;
+}
+
+.about {
+    position: absolute;
+    top: 207px;
+    color: white;
+    left: 0px;
+    border: 4px solid black;
+    width: 197px;
+    height: 39px;
+    background-color: black;
+}
+
+.line3 {
+    position: absolute;
+    top: 250px;
+    color: white;
+    width: 201px;
+    left: 0px;
+}
+
+.services {
+    position: absolute;
+    top: 263px;
+    color: white;
+    left: 0px;
+    border: 4px solid black;
+    width: 197px;
+    height: 39px;
+    background-color: black;
+}
+
+.line4 {
+    position: absolute;
+    top: 306px;
+    color: white;
+    width: 201px;
+    left: 0px;
+}
+
+.portf {
+    position: absolute;
+    top: 319px;
+    color: white;
+    left: 0px;
+    border: 4px solid black;
+    width: 197px;
+    height: 39px;
+    background-color: black;
+}
+
+.line5 {
+    position: absolute;
+    top: 362px;
+    color: white;
+    width: 201px;
+    left: 0px;
+}
+
+.contact {
+    position: absolute;
+    top: 374px;
+    color: white;
+    left: 0px;
+    border: 4px solid black;
+    width: 197px;
+    height: 39px;
+    background-color: black;
+}
+
+.line6 {
+    position: absolute;
+    top: 414px;
+    color: white;
+    width: 201px;
+    left: 0px;
+}
+
+.blank {
+    position: absolute;
+    top: 427px;
+    color: white;
+    left: 0px;
+    border: 4px solid black;
+    width: 197px;
+    height: 292px;
+    background-color: black;
+}
+
+.link {
+    position: absolute;
+    width: 12%;
+    top: 5%;
+    left: 13%;
+}
+
+.instagram {
+    position: absolute;
+    width: 12%;
+    top: 6%;
+    left: 39%;
+}
+
+.git {
+    position: absolute;
+    width: 14%;
+    top: 5%;
+    left: 69%;
+}
+
+.t1{
+    position: absolute;
+    color: white;
+    top: 156px;
+    right: 589px;
+}
+.next{
+    position: absolute;
+    top: 690px;
+    left: 818px
+}
+.previous{
+    position: absolute;
+    top: 690px;
+    left: 740px
+}

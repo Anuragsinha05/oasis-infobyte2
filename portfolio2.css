@@ -1,0 +1,208 @@
+body {
+   
+    background-color: rgb(32, 30, 30);
+}
+.img2 {
+    position: absolute;
+    left: -10px;
+    top: -12px;
+    width: 203px;
+    height: 156px;
+}
+
+.line1 {
+    position: absolute;
+    top: 137px;
+    color: white;
+    width: 201px;
+    left: -10px;
+}
+
+.home {
+    position: absolute;
+    top: 151px;
+    color: white;
+    left: -10px;
+    border: 4px solid black;
+    width: 197px;
+    height: 39px;
+    background-color: black;
+}
+
+.line2 {
+    position: absolute;
+    top: 194px;
+    color: white;
+    width: 201px;
+    left: -10px;
+}
+
+.about {
+    position: absolute;
+    top: 207px;
+    color: white;
+    left: -10px;
+    border: 4px solid black;
+    width: 197px;
+    height: 39px;
+    background-color: black;
+}
+
+.line3 {
+    position: absolute;
+    top: 250px;
+    color: white;
+    width: 201px;
+    left: -10px;
+}
+
+.services {
+    position: absolute;
+    top: 263px;
+    color: white;
+    left: -10px;
+    border: 4px solid black;
+    width: 197px;
+    height: 39px;
+    background-color: black;
+}
+
+.line4 {
+    position: absolute;
+    top: 306px;
+    color: white;
+    width: 201px;
+    left: -10px;
+}
+
+.portf {
+    position: absolute;
+    top: 319px;
+    color: white;
+    left: -10px;
+    border: 4px solid black;
+    width: 197px;
+    height: 39px;
+    background-color: black;
+}
+
+.line5 {
+    position: absolute;
+    top: 362px;
+    color: white;
+    width: 201px;
+    left: -10px;
+}
+
+.contact {
+    position: absolute;
+    top: 374px;
+    color: white;
+    left: -10px;
+    border: 4px solid black;
+    width: 197px;
+    height: 39px;
+    background-color: black;
+}
+
+.line6 {
+    position: absolute;
+    top: 414px;
+    color: white;
+    width: 201px;
+    left: -10px;
+}
+
+.blank {
+    position: absolute;
+    top: 427px;
+    color: white;
+    left: -10px;
+    border: 4px solid black;
+    width: 197px;
+    height: 292px;
+    background-color: black;
+}
+
+.link {
+    position: absolute;
+    width: 12%;
+    top: 5%;
+    left: 13%;
+}
+
+.instagram {
+    position: absolute;
+    width: 12%;
+    top: 6%;
+    left: 39%;
+}
+
+.git {
+    position: absolute;
+    width: 14%;
+    top: 5%;
+    left: 69%;
+}
+/* --------------------------------------------------------------------- */
+.img3{
+    border-radius: 50%;
+    width: 21%;
+    position: absolute;
+    left: 1030px;
+    top: 125px;
+}
+.m1{
+    position: absolute;
+    font-size: 64px;
+    color:maroon;
+    left: 587px;
+    top: -45px;
+}
+.m2{
+    position: absolute;
+    font-size: 22px;
+    color: bisque;
+    left: 97px;
+    top: 199px;
+    font-style: italic;
+}
+.msub1{
+    position: absolute;
+    font-size: 41px;
+    color:rgb(37, 138, 1);
+    left: 287px;
+    top: 476px;
+    font-style: italic;
+}
+.msub2{
+    position: absolute;
+    font-size: 21px;
+    color: aquamarine;
+    left: 8px;
+    top: 528px;
+}
+.msub3{
+    position: absolute;
+    font-size: 21px;
+    color: aquamarine;
+    left: 8px;
+    top: 680px;
+}
+.msub4{
+    position: absolute;
+    font-size: 21px;
+    color: aquamarine;
+    left: 8px;
+    top: 528px;
+}
+.next{
+    position: absolute;
+    top: 887px;
+    left: 818px
+}
+.previous{
+    position: absolute;
+    top:887px;
+    left: 740px
+}

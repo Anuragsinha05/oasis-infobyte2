@@ -1,0 +1,247 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('contactme.jpg');
+    background-size: cover;
+}
+
+.img2 {
+    position: absolute;
+    left: -10px;
+    top: -12px;
+    width: 204px;
+    height: 161px;
+}
+
+.line1 {
+    position: absolute;
+    top: 140px;
+    color: white;
+    width: 201px;
+    left: -10px;
+}
+
+.home {
+    position: absolute;
+    top: 151px;
+    color: white;
+    left: -10px;
+    border: 4px solid black;
+    width: 197px;
+    height: 39px;
+    background-color: black;
+}
+
+.line2 {
+    position: absolute;
+    top: 194px;
+    color: white;
+    width: 201px;
+    left: -10px;
+}
+
+.about {
+    position: absolute;
+    top: 200px;
+    color: white;
+    left: -10px;
+    border: 4px solid black;
+    width: 197px;
+    height: 39px;
+    background-color: black;
+}
+
+.line3 {
+    position: absolute;
+    top: 239px;
+    color: white;
+    width: 201px;
+    left: -10px;
+}
+
+.services {
+    position: absolute;
+    top: 249px;
+    color: white;
+    left: -10px;
+    border: 4px solid black;
+    width: 197px;
+    height: 39px;
+    background-color: black;
+}
+
+.line4 {
+    position: absolute;
+    top: 288px;
+    color: white;
+    width: 201px;
+    left: -10px;
+}
+
+.portf {
+    position: absolute;
+    top: 298px;
+    color: white;
+    left: -10px;
+    border: 4px solid black;
+    width: 197px;
+    height: 39px;
+    background-color: black;
+}
+
+.line5 {
+    position: absolute;
+    top: 337px;
+    color: white;
+    width: 201px;
+    left: -10px;
+}
+
+.contact {
+    position: absolute;
+    top: 347px;
+    color: white;
+    left: -10px;
+    border: 4px solid black;
+    width: 197px;
+    height: 39px;
+    background-color: black;
+}
+
+.line6 {
+    position: absolute;
+    top: 387px;
+    color: white;
+    width: 201px;
+    left: -10px;
+}
+
+.blank {
+    position: absolute;
+    top: 397px;
+    color: white;
+    left: -10px;
+    border: 4px solid black;
+    width: 197px;
+    height: 335px;
+    background-color: black;
+}
+
+.link {
+    position: absolute;
+    width: 12%;
+    top: 5%;
+    left: 13%;
+}
+
+.instagram {
+    position: absolute;
+    width: 12%;
+    top: 6%;
+    left: 39%;
+}
+
+.git {
+    position: absolute;
+    width: 14%;
+    top: 5%;
+    left: 69%;
+}
+
+/* ------------------------------------------------------------------------------------------------------- */
+.hd1 {
+    position: absolute;
+    font-size: 132px;
+    color: gold;
+    left: 531px;
+    top: -112px;
+}
+
+.detail {
+    position: absolute;
+    left: 1166px;
+    background-color: black;
+    height: 114px;
+    width: 280px;
+    top: 302px
+}
+
+.call1{
+    left: 39px;
+    position: absolute;
+    top: 11px;
+    width: 19px;
+}
+.ph1 {
+    left: 85px;
+    position: absolute;
+    top: 11px;
+    color: white;
+}
+
+.el1{
+    left: 29px;
+    position: absolute;
+    top: 37px;
+    width: 37px;
+}
+.eml1 {
+    left: 85px;
+    position: absolute;
+    top: 43px;
+    color: white;
+}
+
+.inst5{
+    left: 39px;
+    position: absolute;
+    top: 78px;
+    width: 23px;
+}
+.inst1 {
+    left: 85px;
+    position: absolute;
+    top: 78px;
+    color: white;
+}
+
+#name1 {
+    position: absolute;
+    width: 518px;
+    left: 450px;
+    top: 195px;
+    height: 30px;
+}
+
+#email {
+    position: absolute;
+    width: 518px;
+    left: 450px;
+    top: 268px;
+    height: 30px;
+}
+
+#msg {
+    position: absolute;
+    width: 518px;
+    left: 450px;
+    top: 344px;
+    height: 161px;
+}
+#fle1{
+    position: absolute;
+    left: 1000px;
+    top: 490px;
+    height: 30px;
+}
+/* ------------------------------------------------------------------------------------------------------- */
+.next{
+    position: absolute;
+    top:678px;
+    left: 818px
+}
+.previous{
+    position: absolute;
+    top: 678px;
+    left: 740px
+}
